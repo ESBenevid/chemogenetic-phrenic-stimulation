@@ -30,4 +30,4 @@ Key toolboxes used include:
 
 1. Clone this repository:
 
-
+git clone https://github.com/ESBenevid/chemogenetic-phrenic-stimulation.git
