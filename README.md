@@ -1,5 +1,7 @@
 # Chemogenetic Stimulation of Phrenic Motor Output and Diaphragm Activity
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This repository contains the analysis code associated with the manuscript:
 
 **Benevides et al. (2025). Chemogenetic stimulation of phrenic motor output and diaphragm activity. _eLife_.**  
